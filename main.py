@@ -10,7 +10,6 @@ def umoghit(a,b):
 def delit(a,b):
     return  print(a / b)
 
-
 a = int(input("Enter your 1 number:\n"))
 b = int(input("Enter your 2 number:\n"))
 c = input("Enter your operation:\n")
